@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I`m currently studying a Bachelor’s Degree in Computer Engineering in Information Technologies
 <!--
 **javiermg-7/javiermg-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
